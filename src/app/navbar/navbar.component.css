@@ -1,0 +1,11 @@
+.navegador{
+    background-color: #673AB7;
+    padding: 20px;
+    color: white;
+    height: 70vh;
+    font-size: x-large;
+  }
+  ul{
+    list-style: none;
+  }
+
